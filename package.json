@@ -1,5 +1,5 @@
 {
-  "name": "hapi-saml2",
+  "name": "@wizardtales/hapi-saml2",
   "version": "4.0.4",
   "description": "SAML Auth for Hapi.js",
   "main": "./lib/index.js",
