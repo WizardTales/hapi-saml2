@@ -1,6 +1,6 @@
 {
   "name": "@wizardtales/hapi-saml2",
-  "version": "4.0.7",
+  "version": "4.0.8",
   "description": "SAML Auth for Hapi.js",
   "main": "./lib/index.js",
   "author": "Tal Bereznitskey <berzniz@gmail.com>",
